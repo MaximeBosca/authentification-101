@@ -49,3 +49,4 @@ image::authentification.svg[]
 [.step]
 * Authentification : Prouver l'identité d'un utilisateur
 * Autorisation : Fournir à l'utilisateur les droits auxquel il a accès selon son identité
+
