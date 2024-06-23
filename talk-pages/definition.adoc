@@ -41,6 +41,7 @@ Prouver l'identité d'un utilisateur
 
 image::authentification.svg[]
 
+=== Authentification multi-facteurs (MFA)
 * Authentification Faible (1 facteur d'authentification)
 * Authentification Forte (2+ facteurs d'authentification)
 

@@ -9,3 +9,5 @@
 :imagesdir: images
 
 include::definition.adoc[]
+include::protocoles.adoc[]
+include::http-auth.adoc[]
