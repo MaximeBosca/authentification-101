@@ -6,5 +6,6 @@
 :icons: font
 :revealjs_totalTime: 1800
 :source-highlighter: highlight.js
+:imagesdir: images
 
 include::definition.adoc[]

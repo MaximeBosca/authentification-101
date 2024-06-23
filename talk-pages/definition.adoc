@@ -15,7 +15,8 @@ Différents moyens d'authentifier une personne, regroupés en catégories
 --
 === Ce que je sais
 * Mot de passe
-* Information privée (question de sécurité)
+* Question de sécurité
+* Information privée
 
 === Ce que je possède
 * Carte d'identité
@@ -32,3 +33,18 @@ Différents moyens d'authentifier une personne, regroupés en catégories
 * Visage
 
 === Ce que je fais
+* Signature
+* Geste
+
+== En informatique
+Prouver l'identité d'un utilisateur
+
+image::authentification.svg[]
+
+* Authentification Faible (1 facteur d'authentification)
+* Authentification Forte (2+ facteurs d'authentification)
+
+=== Contrôle d'accès
+[.step]
+* Authentification : Prouver l'identité d'un utilisateur
+* Autorisation : Fournir à l'utilisateur les droits auxquel il a accès selon son identité
