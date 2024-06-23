@@ -42,7 +42,7 @@ jobs :
           cp talk-pages/theme/gop.css reveal.js/dist/theme/ && \
           mkdir -p build/reveal.js/dist && \
           cp -r talk-pages/*.html build/ && \
-          cp -r talk-pages/images/* build/images/ && \
+          cp -r talk-pages/images build/ && \
           cp -r reveal.js/dist/* build/reveal.js/dist/ && \
           cp -r reveal.js/plugin build/reveal.js/
         working-directory: .
