@@ -1,0 +1,34 @@
+== Authentification
+[.notes]
+--
+Authentification : fait de prouver un fait à propos d'une chose, d'une personne.
+--
+[.step]
+* Auteur d'une oeuvre d'art
+* Période ou lieu d'origine d'un artefact ancien
+* Identité
+
+== Facteurs d'autentification
+[.notes]
+--
+Différents moyens d'authentifier une personne, regroupés en catégories
+--
+=== Ce que je sais
+* Mot de passe
+* Information privée (question de sécurité)
+
+=== Ce que je possède
+* Carte d'identité
+* Badge de sécurité
+* Token
+* Téléphone
+* Clé USB
+
+=== Ce que je suis
+* Empreinte digitale
+* Rétine
+* ADN
+* Voix
+* Visage
+
+=== Ce que je fais
