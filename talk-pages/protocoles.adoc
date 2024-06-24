@@ -7,5 +7,11 @@ image::PAP.svg[Authentification par mot de passe]
 === Authentification par paire de clés
 image::Paire-de-cles.svg[]
 
+=== !
+image::Paire-de-cles-2.svg[]
+
+=== !
+image::Paire-de-cles-3.svg[]
+
 === Authentification par certificats
-image::https://www.yubico.com/wp-content/uploads/2023/03/315-Website-improvement-suggestions-on-CBA-page-r1-100-1-1-1536x1003.jpg[]
+image::https://www.yubico.com/wp-content/uploads/2023/03/315-Website-improvement-suggestions-on-CBA-page-r1-100-1-1-1536x1003.jpg[certificats,500]
