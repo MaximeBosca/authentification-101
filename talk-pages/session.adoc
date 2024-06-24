@@ -1,0 +1,28 @@
+== Maintien de sessions
+
+=== JWT
+Header
+[source, json]
+----
+{
+  "alg": "HS256",
+  "typ": "JWT"
+}
+----
+Payload
+[source, json]
+----
+{
+  "loggedInAs": "admin",
+  "iat": 1422779638
+}
+----
+Signature
+[source]
+----
+HMAC_SHA256(
+  secret,
+  base64urlEncoding(header) + '.' +
+  base64urlEncoding(payload)
+)
+----

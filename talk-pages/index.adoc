@@ -10,4 +10,4 @@
 
 include::definition.adoc[]
 include::protocoles.adoc[]
-include::http-auth.adoc[]
+include::session.adoc[]
