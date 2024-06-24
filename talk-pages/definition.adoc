@@ -39,7 +39,7 @@ Différents moyens d'authentifier une personne, regroupés en catégories
 == En informatique
 Prouver l'identité d'un utilisateur
 
-image::authentification.svg[]
+image::authentification.svg[width="1000"]
 
 === Authentification multi-facteurs (MFA)
 * Authentification Faible (1 facteur d'authentification)
