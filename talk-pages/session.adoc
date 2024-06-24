@@ -1,4 +1,6 @@
 == Maintien de sessions
+* Inclure les informations d'authentification
+* Chiffrement/ Tunnelling
 
 === JWT
 Header
@@ -26,3 +28,16 @@ HMAC_SHA256(
   base64urlEncoding(payload)
 )
 ----
+
+=== !
+[source,java]
+----
+const token = base64urlEncoding(header) + '.' + base64urlEncoding(payload) + '.' + base64urlEncoding(signature)
+----
+[source]
+----
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dnZWRJbkFzIjoiYWRtaW4iLCJpYXQiOjE0MjI3Nzk2Mzh9.gzSraSYS8EXBxLN_oWnFSRgCzcmJmMjLiuyu5CSpyHI
+----
+
+=== !
+image::JWT.svg[width="1000"]
