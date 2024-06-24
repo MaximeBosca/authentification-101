@@ -4,16 +4,16 @@
 image::PAP.svg[Authentification par mot de passe, role=full-width]
 
 === Authentification par paire de clés
-image::Paire-de-cles.svg[role=full-width]
+image::Paire-de-cles.svg[width="1200"]
 
 
 === !
-image::Paire-de-cles-2.svg[role=full-width]
+image::Paire-de-cles-2.svg[width="1200"]
 
 
 === !
-image::Paire-de-cles-3.svg[role=full-width]
+image::Paire-de-cles-3.svg[width="1200"]
 
 
 === Authentification par certificats
-image::https://www.yubico.com/wp-content/uploads/2023/03/315-Website-improvement-suggestions-on-CBA-page-r1-100-1-1-1536x1003.jpg[role=full-width]
+image::https://www.yubico.com/wp-content/uploads/2023/03/315-Website-improvement-suggestions-on-CBA-page-r1-100-1-1-1536x1003.jpg[width="1200"]
