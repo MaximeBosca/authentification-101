@@ -36,8 +36,10 @@ const token = base64urlEncoding(header) + '.' + base64urlEncoding(payload) + '.'
 ----
 [source]
 ----
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dnZWRJbkFzIjoiYWRtaW4iLCJpYXQiOjE0MjI3Nzk2Mzh9.gzSraSYS8EXBxLN_oWnFSRgCzcmJmMjLiuyu5CSpyHI
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.
+eyJsb2dnZWRJbkFzIjoiYWRtaW4iLCJpYXQiOjE0MjI3Nzk2Mzh9.
+gzSraSYS8EXBxLN_oWnFSRgCzcmJmMjLiuyu5CSpyHI
 ----
 
 === !
-image::JWT.svg[width="1000"]
+image::JWT.svg[width="800"]
