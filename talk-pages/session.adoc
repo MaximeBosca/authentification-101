@@ -1,6 +1,6 @@
 == Maintien de sessions
-* Inclure les informations d'authentification
-* Chiffrement/ Tunnelling
+=== Chiffrement/ Tunnelling
+image::https://i.sstatic.net/gw5aN.png[width="800"]
 
 === Tokens : JWT
 [.notes]
