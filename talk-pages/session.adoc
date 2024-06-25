@@ -2,7 +2,11 @@
 * Inclure les informations d'authentification
 * Chiffrement/ Tunnelling
 
-=== JWT
+=== Tokens : JWT
+[.notes]
+--
+JSON Web Token
+--
 Header
 [source, json]
 ----
